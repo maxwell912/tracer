@@ -3,7 +3,7 @@
 Трассировка автономных систем.
 
 # Запуск
-.\app\Tracer.exe <domainName or IP>
+.\app\Tracer.exe "domainName or IP"
 
 # Пример использования
 tracer 8.8.8.8
