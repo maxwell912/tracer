@@ -1,0 +1,12 @@
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\bin\Debug\netcoreapp3.1\Tracer.exe
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\bin\Debug\netcoreapp3.1\Tracer.deps.json
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\bin\Debug\netcoreapp3.1\Tracer.runtimeconfig.json
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\bin\Debug\netcoreapp3.1\Tracer.runtimeconfig.dev.json
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\bin\Debug\netcoreapp3.1\Tracer.dll
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\bin\Debug\netcoreapp3.1\Tracer.pdb
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\obj\Debug\netcoreapp3.1\Tracer.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\obj\Debug\netcoreapp3.1\Tracer.AssemblyInfoInputs.cache
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\obj\Debug\netcoreapp3.1\Tracer.AssemblyInfo.cs
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\obj\Debug\netcoreapp3.1\Tracer.dll
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\obj\Debug\netcoreapp3.1\Tracer.pdb
+C:\Users\V\Desktop\tracer_hw\ConsoleApp1\obj\Debug\netcoreapp3.1\Tracer.genruntimeconfig.cache
